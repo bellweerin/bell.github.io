@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+}
+
+.header{
+    text-align: center;
+    font-family: 'Fredericka the Great', cursive;
+    color: black;
+    font-size: 400%;
+}
+
+.icon1{
+    font-size: 200%;
+    color: teal;
+    margin-left: 110px;
+}
+
+.input1{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/*.btn-random{
+    background-color: white;
+}
+
+.btn-random:active{
+    outline: tomato;
+    background-color: violet;
+
+}*/
