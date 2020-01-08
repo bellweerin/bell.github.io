@@ -20,6 +20,55 @@ body{
     margin-right: 100px;
 }
 
+.addBtn{
+    margin: 0 auto;
+    float: left;
+}
+
+.tableSet{
+    background-color: aquamarine;
+    width: 50%;
+
+}
+
+.table1{
+    width: 40%;
+    margin-left: 100px;
+    max-width: 50%;
+    margin-right: 200px;
+}
+
+.table2{
+    width: 40%;
+    margin-left: 800px;
+    margin-top: 0;
+    max-width: 50%;
+    margin-right: 200px;
+}
+
+
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+p{
+    font-size: large;
+    text-align: center;
+}
+
+.floatLeft { width: 50%; float: left; }
+.floatRight {width: 50%; float: right; }
+.container { overflow: hidden; }
+
+/* table{
+    display: inline-block;
+    float: left;
+} */
+
+.floatLeft { width: 50%; float: left; }
+.floatRight {width: 50%; float: right; }
+.container { overflow: hidden; }
 /*.btn-random{
     background-color: white;
 }
@@ -28,4 +77,4 @@ body{
     outline: tomato;
     background-color: violet;
 
-}*/
+}
