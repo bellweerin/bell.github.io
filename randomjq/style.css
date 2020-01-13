@@ -1,0 +1,9 @@
+h1{
+    font-family: Quantico;
+    background-color: rgb(255, 140, 184);
+    text-align: center;
+}
+.center_div{
+    margin: 0 auto;
+   /* width:80% value of your choice which suits your alignment */
+}
